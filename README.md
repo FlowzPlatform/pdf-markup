@@ -1,6 +1,6 @@
 # PDF-Markup
 
-> A Vue.js project
+> A PDF-markup project
 
 ## Build Setup
 
